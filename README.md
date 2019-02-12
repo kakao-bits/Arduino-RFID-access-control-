@@ -7,5 +7,4 @@ some photos:
 ![alt text](https://github.com/koko12345/Arduino-RFID-access-control-/blob/master/%D9%A2%D9%A0%D9%A1%D9%A8%D9%A0%D9%A9%D9%A0%D9%A6_%D9%A1%D9%A3%D9%A1%D9%A6%D9%A1%D9%A0.jpg)
 ![alt text](https://github.com/koko12345/Arduino-RFID-access-control-/blob/master/%D9%A2%D9%A0%D9%A1%D9%A8%D9%A0%D9%A9%D9%A0%D9%A6_%D9%A1%D9%A3%D9%A1%D9%A6%D9%A1%D9%A6.jpg)
 A demonstration :
-
-![alt text](https://www.youtube.com/watch?v=2_apWo19nQ8)
+[![Watch the video](https://github.com/koko12345/Arduino-RFID-access-control-/blob/master/block.png)](https://www.youtube.com/watch?v=2_apWo19nQ8)
